@@ -5,7 +5,7 @@ I am a highly motivated Developer and hard-working individual with strong experi
 - I like to migrate and transform legacy software leveraging the right tools into modern solutions
 - I like to create resiliant infrastructure designs and solutions
 - I'm currently working mainly with Google Cloud Services
-- I've worked previously worked a lot with AWS
+- I've previously worked a lot with AWS
 
 #### Favorite Quotes
 - The best process is no process
