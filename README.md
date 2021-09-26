@@ -13,6 +13,7 @@ I am a highly motivated Developer and hard-working individual with strong experi
 - It is not enough for code to work
 
 #### Education
-- Certified PHP/MySQL developer
-- Certified C++ developer
-- Certified Kubernetes application developer
+- Certified PHP/MySQL developer (at [ILS](https://www.ils.de))
+- Certified C++ developer (at [ILS](https://www.ils.de))
+- Certified Kubernetes application developer ([CKAD](https://www.credly.com/badges/1f01b62c-9508-4c65-b95e-68d3433cf2f1?source=linked_in_profile))
+- Deploy to GKE (Google Kubernetes Engine) Lab [badge](https://run.qwiklabs.com/public_profiles/83314961-d414-4bc6-ac8f-3eb5a2ce81c1/badges/1205398)
