@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**edenreich/edenreich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a highly motivated Developer and hard-working individual with strong experience in the E-Commerce industry for over 6 years. I apply tools like Kubernetes, Docker, and git versioning to build APIs mainly with programming languages like C++, Typescript, Golang, Rust and PHP.
 
-Here are some ideas to get you started:
+- I like to migrate and transform legacy software leveraging the right tools into modern solutions
+- I like to create resiliant infrastructure designs and solutions
+- I'm currently working mainly with Google Cloud Services
+- I've worked previously worked a lot with AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Favorite Quotes
+- The best process is no process
+- If you can't explain it simply you don't understand it well enough
+- It is not enough for code to work
+
+#### Education
+- Certified PHP/MySQL developer
+- Certified C++ developer
+- Certified Kubernetes application developer
