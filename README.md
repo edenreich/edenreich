@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Eden
 
 I am a highly motivated Developer and hard-working individual with strong experience in the E-Commerce industry for over 6 years. I apply tools like Kubernetes, Docker, and git versioning to build APIs mainly with programming languages like C++, Typescript, Golang, Rust and PHP.
 
@@ -7,11 +7,17 @@ I am a highly motivated Developer and hard-working individual with strong experi
 - I like to create resilient infrastructure designs and solutions
 - I'm currently working mainly with Google Cloud Services
 - I've previously worked a lot with AWS
+- I'm currently learning for the Google Associate Cloud Engineer exam
+- I'm writing blog posts, when I have time, about fundamentals and essential topics in the software world
+
+---
 
 #### Favorite Quotes
 - The best process is no process
 - If you can't explain it simply you don't understand it well enough
 - It is not enough for code to work
+
+---
 
 #### Education
 - Certified Kubernetes application developer ([CKAD](https://www.credly.com/badges/1f01b62c-9508-4c65-b95e-68d3433cf2f1?source=linked_in_profile))
