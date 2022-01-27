@@ -1,6 +1,6 @@
 ### Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Eden
 
-I am a highly motivated Developer and hard-working individual with strong experience in the E-Commerce industry for over 6 years. I apply tools like Kubernetes, Docker, and git versioning to build APIs mainly with programming languages like C++, Typescript, Golang, Rust and PHP.
+I am a highly motivated Developer and hard-working individual with strong experience in the E-Commerce industry for over 7 years. I apply tools like Kubernetes, Docker, and git versioning to build APIs mainly with programming languages like C++, Typescript, Golang, Rust and PHP.
 
 - I like to rethink processes that fundemantly were designed rapidly
 - I like to migrate and transform legacy software leveraging the right tools into modern solutions
