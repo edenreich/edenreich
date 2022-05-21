@@ -13,7 +13,7 @@ I am a highly motivated developer and hard-working individual with strong experi
 ---
 
 #### Favorite Quotes
-- The best process is no process
+- The best process is no process - strict processes that were thought ahead of time or were copied from a template before understanding the relevant use-cases, often lead to reduction of flexibility and productivity. In this particular case, it's better to be able to adjust a process to meet the optimal workflow
 - If you can't explain it simply you don't understand it well enough
 - It is not enough for code to work
 
