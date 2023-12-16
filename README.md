@@ -1,6 +1,6 @@
 ### Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Eden
 
-I am a highly motivated developer and hard-working individual with strong experience in the E-Commerce industry for over 8 years. I apply tools like Kubernetes, Docker, and git versioning to build and package APIs mainly with programming languages like Typescript, C#, C++, Golang, Rust and PHP.
+Experienced Site Reliability Engineer (SRE) with a passion for optimizing system performance and ensuring seamless, reliable and resilient operations. Proven track record in implementing scalable solutions, automating processes, and mitigating potential issues. Excited about leveraging modern technology to enhance the reliability of a system while ensuring cost saving. I apply tools like Kubernetes, git versioning to build APIs mainly with programming languages like C#, C++, Typescript, Golang, Rust and PHP.
 
 - I like to rethink processes that fundemantly were designed rapidly
 - I like to migrate and transform legacy software leveraging the right tools into modern solutions
