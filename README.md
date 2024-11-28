@@ -17,6 +17,7 @@ Experienced Site Reliability Engineer (SRE) with a passion for optimizing system
 - If you can't explain it simply you don't understand it well enough.
 - It is not enough for code to work.
 - The best way to predict the future is to create it.
+- Fail fast and fail forward.
 
 ---
 
