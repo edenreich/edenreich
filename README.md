@@ -5,6 +5,7 @@ Experienced Site Reliability Engineer (SRE) with a passion for optimizing system
 - I like to rethink processes that fundemantly were designed rapidly.
 - I like to migrate and transform legacy software leveraging the right tools into modern solutions.
 - I like to create resilient infrastructure designs and solutions.
+- I like to build useful AI Agents.
 - I'm currently working mainly with Google Cloud Services.
 - I've previously worked a lot with AWS.
 - I'm currently learning for the Google Professional Cloud Architect exam.
