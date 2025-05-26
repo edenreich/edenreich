@@ -2,14 +2,14 @@
 
 Experienced Site Reliability Engineer (SRE) with a passion for optimizing system performance and ensuring seamless, reliable and resilient operations. Proven track record in implementing scalable solutions, automating processes, and mitigating potential issues. Excited about leveraging modern technology to enhance the reliability of a system while ensuring cost saving. I apply tools like Kubernetes, git versioning to build APIs mainly with programming languages like C#, C++, Typescript, Golang, Rust and PHP.
 
-- I like to rethink processes that fundemantly were designed rapidly.
-- I like to migrate and transform legacy software leveraging the right tools into modern solutions.
-- I like to create resilient infrastructure designs and solutions.
-- I like to build useful AI Agents.
-- I'm currently working mainly with Google Cloud Services.
-- I've previously worked a lot with AWS.
-- I'm currently learning for the Google Professional Cloud Architect exam.
-- I'm writing blog posts, when I have time, about fundamentals and essential topics in the software world.
+- I enjoy rethinking and improving processes that were originally designed under time pressure.
+- I specialize in transforming legacy systems into modern solutions using the right tools for the job.
+- I design and build resilient infrastructure and systems.
+- I create practical, purpose-driven AI agents.
+- I'm currently focused on Google Cloud, with extensive past experience in AWS.
+- I actively contribute to open source projects aimed at simplifying AI agent orchestration.
+- I'm building a next-generation Coder, soon to be released publicly.
+- When time allows, I write blog posts covering software fundamentals and lessons learned from real-world experience.
 
 ---
 
