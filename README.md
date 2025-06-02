@@ -29,3 +29,5 @@ Experienced Site Reliability Engineer (SRE) with a passion for optimizing system
 - Serverless with Google CloudRun ([badge](https://run.qwiklabs.com/public_profiles/83314961-d414-4bc6-ac8f-3eb5a2ce81c1/badges/1234390)).
 - Certified PHP/MySQL developer (at [ILS](https://www.ils.de)).
 - Certified C++ developer (at [ILS](https://www.ils.de)).
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edenreich)](https://github.com/anuraghazra/github-readme-stats)
