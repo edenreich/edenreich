@@ -2,7 +2,7 @@
 
 AI Platform Engineer with a passion for optimizing system performance and ensuring seamless, reliable and resilient operations. Proven track record in implementing scalable solutions, automating processes, and mitigating potential issues. Excited about leveraging modern technology to enhance the reliability of a system while ensuring cost saving. I apply tools like Kubernetes, git versioning to build APIs mainly with programming languages like Golang, Rust, C#, C++, Typescript and PHP.
 
-Previously, I spent ~2 years at Tesla, contributing to high-impact projects. Today, I’m fully dedicated to open source, building tools and platforms that make AI agent orchestration more accessible and effective.
+Previously, I spent ~2 years at Tesla, contributing to high-impact global projects. Today, I’m fully dedicated to open source, building tools and platforms that make AI agent orchestration more accessible and effective.
 
 - I enjoy rethinking and improving processes that were originally designed under time pressure.
 - I specialize in transforming legacy systems into modern solutions using the right tools for the job.
